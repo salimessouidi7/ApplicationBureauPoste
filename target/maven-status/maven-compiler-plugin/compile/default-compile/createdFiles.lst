@@ -1,0 +1,9 @@
+baseUtils\BrowserSetUp.class
+client\LoginClient.class
+dataBase\DatabaseConnection.class
+baseUtils\SetUp.class
+dataBase\DatabaseUtils.class
+baseUtils\SetUp$BrowserType.class
+client\SignUpClient.class
+baseUtils\SetUp$1.class
+admin\LoginAdmin.class

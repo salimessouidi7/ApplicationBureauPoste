@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T19:44:49 GMT+01:00" name="TestSuite" finished-at="2024-03-07T19:45:01 GMT+01:00" duration-ms="12058">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T19:44:49 GMT+01:00" name="ChromeTest" finished-at="2024-03-07T19:45:01 GMT+01:00" duration-ms="12058">
+      <class name="clientTest.LoginClientTest">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext,baseUtils.SetUp$BrowserType)[pri:0, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:44:49 GMT+01:00" name="setUp" finished-at="2024-03-07T19:44:52 GMT+01:00" duration-ms="3579" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@25b52284]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:44:53 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-07T19:44:55 GMT+01:00" duration-ms="1902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amirakh7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amira]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnBrowser -->
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:44:55 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-07T19:44:56 GMT+01:00" duration-ms="1310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhoha7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dhoha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnBrowser -->
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:44:56 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-07T19:44:58 GMT+01:00" duration-ms="1408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fathi7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fathi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnBrowser -->
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:44:58 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-07T19:44:59 GMT+01:00" duration-ms="1594" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[marwa7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[marwa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnBrowser -->
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:44:59 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-07T19:45:01 GMT+01:00" duration-ms="1606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salimsouidi7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[souidi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:clientTest.LoginClientTest@7674f035]" started-at="2024-03-07T19:45:01 GMT+01:00" name="tearDown" finished-at="2024-03-07T19:45:01 GMT+01:00" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- clientTest.LoginClientTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>

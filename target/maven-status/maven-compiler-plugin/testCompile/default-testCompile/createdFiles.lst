@@ -1,0 +1,5 @@
+base\TestBase.class
+base\EdgeSetUp.class
+clientTest\LoginClientTest.class
+adminTest\LoginAdminTest.class
+clientTest\SignUpTest.class
