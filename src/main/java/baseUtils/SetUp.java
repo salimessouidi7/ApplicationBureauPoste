@@ -13,6 +13,7 @@ public class SetUp {
     static {
     	WebDriverManager.chromedriver().setup();
     	//WebDriverManager.chromedriver().browserVersion("122.0.6261.111").setup();
+    	WebDriverManager.edgedriver().setup();
     }
 
     public enum BrowserType {
