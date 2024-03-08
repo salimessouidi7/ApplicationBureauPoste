@@ -10,10 +10,9 @@ public class SetUp {
 
     protected static WebDriver driver;
 
-//    static {
-//        WebDriverManager.chromedriver().setup();
-//        WebDriverManager.edgedriver().setup();
-//    }
+    static {
+    	WebDriverManager.chromedriver().browserVersion("122.0.6261.69").setup();
+    }
 
     public enum BrowserType {
         CHROME,
