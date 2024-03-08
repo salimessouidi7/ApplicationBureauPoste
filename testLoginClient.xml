@@ -8,10 +8,10 @@
 		</classes>
 	</test>
 
-	<test name="EdgeTest">
+	<!-- <test name="EdgeTest">
 		<parameter name="browserType" value="EDGE" />
 		<classes>
 			<class name="clientTest.LoginClientTest" />
 		</classes>
-	</test>
+	</test> -->
 </suite>

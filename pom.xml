@@ -115,6 +115,9 @@
 				<version>3.1.2</version>
 				<configuration>
 					<suiteXmlFiles>
+						<!--Use this below when sending mvn command -DtestFile ="testLoginClient.xml"-->
+						<!--<suiteXmlFile>${testFile}</suiteXmlFile>-->
+						<!--Use this below when directly running testLoginClient.xml-->
 						<suiteXmlFile>testLoginClient.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
