@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-08T20:09:18 GMT+01:00" name="TestSuite" finished-at="2024-03-08T20:09:36 GMT+01:00" duration-ms="17290">
+  <suite started-at="2024-03-14T16:40:52 GMT+01:00" name="TestSuite" finished-at="2024-03-14T16:41:04 GMT+01:00" duration-ms="12181">
     <groups>
     </groups>
-    <test started-at="2024-03-08T20:09:18 GMT+01:00" name="ChromeTest" finished-at="2024-03-08T20:09:36 GMT+01:00" duration-ms="17290">
+    <test started-at="2024-03-14T16:40:52 GMT+01:00" name="ChromeTest" finished-at="2024-03-14T16:41:04 GMT+01:00" duration-ms="12181">
       <class name="clientTest.LoginClientTest">
-        <test-method is-config="true" signature="setUp(org.testng.ITestContext,baseUtils.SetUp$BrowserType)[pri:0, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:18 GMT+01:00" name="setUp" finished-at="2024-03-08T20:09:28 GMT+01:00" duration-ms="9345" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext,baseUtils.SetUp$BrowserType)[pri:0, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:40:52 GMT+01:00" name="setUp" finished-at="2024-03-14T16:40:54 GMT+01:00" duration-ms="2431" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@7f4701b1]]>
+                <![CDATA[org.testng.TestRunner@337bbfdf]]>
               </value>
             </param>
             <param index="1">
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:28 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-08T20:09:30 GMT+01:00" duration-ms="1550" status="PASS">
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:40:55 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-14T16:40:57 GMT+01:00" duration-ms="2315" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOnBrowser -->
-        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:30 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-08T20:09:31 GMT+01:00" duration-ms="1360" status="PASS">
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:40:57 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-14T16:40:59 GMT+01:00" duration-ms="1475" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOnBrowser -->
-        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:31 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-08T20:09:32 GMT+01:00" duration-ms="1307" status="PASS">
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:40:59 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-14T16:41:00 GMT+01:00" duration-ms="1801" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOnBrowser -->
-        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:32 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-08T20:09:34 GMT+01:00" duration-ms="1511" status="PASS">
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:41:00 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-14T16:41:02 GMT+01:00" duration-ms="1634" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -107,7 +107,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOnBrowser -->
-        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:34 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-08T20:09:36 GMT+01:00" duration-ms="1620" status="PASS">
+        <test-method signature="testOnBrowser(java.lang.String,java.lang.String,int)[pri:1, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:41:02 GMT+01:00" name="testOnBrowser" data-provider="userData" finished-at="2024-03-14T16:41:04 GMT+01:00" duration-ms="1747" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -128,7 +128,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOnBrowser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-08T20:09:36 GMT+01:00" name="tearDown" finished-at="2024-03-08T20:09:36 GMT+01:00" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:clientTest.LoginClientTest@3e0e1046]" started-at="2024-03-14T16:41:04 GMT+01:00" name="tearDown" finished-at="2024-03-14T16:41:04 GMT+01:00" duration-ms="214" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

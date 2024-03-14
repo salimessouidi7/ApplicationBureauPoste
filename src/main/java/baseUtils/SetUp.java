@@ -4,16 +4,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-
 public class SetUp {
 
     protected static WebDriver driver;
 
     static {
-    	WebDriverManager.chromedriver().setup();
+    	//WebDriverManager.chromedriver().setup();
     	//WebDriverManager.chromedriver().browserVersion("122.0.6261.111").setup();
-    	WebDriverManager.edgedriver().setup();
+    	//WebDriverManager.edgedriver().setup();
     }
 
     public enum BrowserType {
